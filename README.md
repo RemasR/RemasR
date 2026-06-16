@@ -15,7 +15,6 @@
 - Competitive programmer - participated in ACM, IEEE Xtreme, and local competitions;
 - Problem setter & judge at the Junior Programming Contest (JPC) and ASU Coding Cup;
 - Ask me about anything, I am happy to help;
-- How to reach me: remas.mihyar@gmail.com;
 
 &nbsp;
 
